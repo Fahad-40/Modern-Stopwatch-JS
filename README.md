@@ -17,3 +17,10 @@ This project focuses on creating a **professional UI** while keeping the JavaScr
 - **HTML5** – Structure  
 - **CSS3** – Styling & modern UI  
 - **JavaScript (Vanilla)** – Stopwatch logic  
+
+🔮 Future Improvements
+
+Lap time feature
+Dark/Light mode toggle
+Circular progress animation
+Sound or vibration feedback
