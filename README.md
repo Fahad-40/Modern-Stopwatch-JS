@@ -2,3 +2,12 @@
 
 A **modern, clean, and responsive stopwatch** built using **HTML, CSS, and JavaScript**.  
 This project focuses on creating a **professional UI** while keeping the JavaScript logic simple and beginner-friendly.
+
+## ✨ Features
+
+✔ Start, Stop, and Reset functionality  
+✔ Accurate time tracking (hours, minutes, seconds, milliseconds)  
+✔ Modern glassmorphism UI  
+✔ Responsive and mobile-friendly layout  
+✔ Smooth button hover effects  
+✔ Clean and readable JavaScript logic  
