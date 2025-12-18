@@ -11,3 +11,9 @@ This project focuses on creating a **professional UI** while keeping the JavaScr
 ✔ Responsive and mobile-friendly layout  
 ✔ Smooth button hover effects  
 ✔ Clean and readable JavaScript logic  
+
+## 🛠 Technologies Used
+
+- **HTML5** – Structure  
+- **CSS3** – Styling & modern UI  
+- **JavaScript (Vanilla)** – Stopwatch logic  
