@@ -1,4 +1,4 @@
-# Modern Stopwatch ⏱️
+# Modern Stopwatch ⏱️  
 
 A **modern, clean, and responsive stopwatch** built using **HTML, CSS, and JavaScript**.  
 This project focuses on creating a **professional UI** while keeping the JavaScript logic simple and beginner-friendly.
@@ -20,7 +20,7 @@ This project focuses on creating a **professional UI** while keeping the JavaScr
 
 🔮 Future Improvements
 
-Lap time feature
+- Lap time feature
 Dark/Light mode toggle
 Circular progress animation
 Sound or vibration feedback
