@@ -22,5 +22,5 @@ This project focuses on creating a **professional UI** while keeping the JavaScr
 
 - Lap time feature
 - Dark/Light mode toggle
-Circular progress animation
+- Circular progress animation
 Sound or vibration feedback
