@@ -7,7 +7,7 @@ This project focuses on creating a **professional UI** while keeping the JavaScr
 
 ✔ Start, Stop, and Reset functionality  
 ✔ Accurate time tracking (hours, minutes, seconds, milliseconds)  
-✔ Modern glassmorphism UI  
+✔ 
 ✔ Responsive and mobile-friendly layout  
 ✔ Smooth button hover effects  
 ✔ Clean and readable JavaScript logic  
