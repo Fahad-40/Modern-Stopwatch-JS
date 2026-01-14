@@ -44,12 +44,20 @@ h1 {
     margin-bottom: 30px;
 }
 
+
 .time span {
     min-width: 45px;
+    display: inline-block;
+    width: 50px;
+    text-align: center;
 }
-
 .ms {
     font-size: 24px;
+    color: #94a3b8;
+    margin-left: -45px;
+}
+.dot{
+    font-size: 29px;
     color: #94a3b8;
 }
 
