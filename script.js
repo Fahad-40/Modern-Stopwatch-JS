@@ -13,7 +13,7 @@ startBtn.addEventListener("click",() => {
     stopWatch();
 });
 
-stopBtn.addEventListener("click", function () {
+stopBtn.addEventListener("click", () => {
     Timer = false;
 });
 
