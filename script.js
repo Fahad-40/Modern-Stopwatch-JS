@@ -31,8 +31,8 @@ let timer = false;
 
 displayHr.innerHTML = "00";
 displayMin.innerHTML = "00";
-     displaySec.innerHTML = "00";
-     displayCount.innerHTML = "00";
+displaySec.innerHTML = "00";
+displayCount.innerHTML = "00";
 })
 
 
