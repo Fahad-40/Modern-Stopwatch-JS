@@ -22,7 +22,7 @@ timer = false;
  let displaySec = document.querySelector("#sec");
  let displayCount = document.querySelector("#count");
 
-resetBtn.addEventListener("click" , ()=>{
+resetBtn.addEventListener("click" , () => {
     let hour = 0;
 let min = 0;
 let sec = 0;
