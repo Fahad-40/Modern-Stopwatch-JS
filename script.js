@@ -17,7 +17,9 @@ stopBtn.addEventListener("click" , () => {
 timer = false;
 });
 
-
+resetBtn.addEventListener("click" , ()=>{
+    
+})
 
 
 
