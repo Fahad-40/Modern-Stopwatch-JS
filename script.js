@@ -35,6 +35,12 @@ displaySec.innerHTML = "00";
 displayCount.innerHTML = "00";
 })
 
+function stopWatch() {
+    if (timer) {
+        
+    }
+}
+
 
 
 
