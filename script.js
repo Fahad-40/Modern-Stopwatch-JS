@@ -7,7 +7,9 @@ let min = 0;
 let sec = 0;
 let count = 0;
 
-
+startBtn.addEventListener("click" , () => {
+    
+})
 
 
 
