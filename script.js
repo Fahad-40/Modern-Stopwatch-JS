@@ -1,17 +1,14 @@
-// Grabing all Buttons
 let startBtn = document.querySelector("#start");
 let stopBtn = document.querySelector("#stop");
 let resetBtn = document.querySelector("#reset");
 
-//making variables for hrs, mins, sec
 let hour = 0;
 let min = 0;
 let sec = 0;
 let count = 0;
 
-//making functions for buttons
 let Timer = false;
-startBtn.addEventListener("click", function () {
+startBtn.addEventListener("click",() => {
     Timer = true;
     stopWatch();
 });
@@ -62,7 +59,6 @@ function stopWatch() {
         let minString = min;
         let countString = count;
         
-        // Making Format
         if (hrString < 10) {
             hrString = "0" + hrString;
         }
