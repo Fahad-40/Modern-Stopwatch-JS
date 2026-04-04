@@ -13,7 +13,7 @@ timer = true;
 stopWatch();
 })
 
-stopBtn.addEventListener("click" , () =>{
+stopBtn.addEventListener("click" , () => {
 timer = false;
 });
 
