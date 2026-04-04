@@ -2,12 +2,41 @@ let startBtn = document.querySelector("#start");
 let stopBtn = document.querySelector("#stop");
 let resetBtn = document.querySelector("#reset");
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 let hour = 0;
 let min = 0;
 let sec = 0;
 let count = 0;
 
 let Timer = false;
+
 startBtn.addEventListener("click",() => {
     Timer = true;
     stopWatch();
