@@ -6,10 +6,16 @@ let hour = 0;
 let min = 0;
 let sec = 0;
 let count = 0;
+let timer = false;
 
 startBtn.addEventListener("click" , () => {
-    
+timer = true;
+stopWatch();
 })
+
+stopBtn.addEventListener("click" , () =>{
+timer = false;
+});
 
 
 
