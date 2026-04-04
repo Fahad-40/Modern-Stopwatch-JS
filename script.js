@@ -17,8 +17,20 @@ stopBtn.addEventListener("click" , () => {
 timer = false;
 });
 
+ let displayHr = document.querySelector("#hr");
+ let displayMin = document.querySelector("#min");
+ let displaySec = document.querySelector("#sec");
+ let displayCount = document.querySelector("#count");
+
 resetBtn.addEventListener("click" , ()=>{
-    
+    let hour = 0;
+let min = 0;
+let sec = 0;
+let count = 0;
+let timer = false;
+
+
+
 })
 
 
